@@ -27,41 +27,6 @@
       "lang": "en",
       "name": "English",
       "path": "langs/en.json"
-    },
-    {
-      "lang": "fr",
-      "name": "Français",
-      "path": "langs/fr.json"
-    },
-    {
-      "lang": "ko",
-      "name": "Korean",
-      "path": "langs/ko.json"
-    },
-    {
-      "lang": "de",
-      "name": "Deutsch",
-      "path": "langs/de.json"
-    },
-    {
-      "lang": "ja",
-      "name": "日本語",
-      "path": "langs/ja.json"
-    },
-    {
-      "lang": "pt-BR",
-      "name": "Português (Brasil)",
-      "path": "langs/pt-BR.json"
-    },
-    {
-      "lang": "es",
-      "name": "Español",
-      "path": "langs/es.json"
-    },
-    {
-      "lang": "pl",
-      "name": "Polski",
-      "path": "langs/pl.json"
     }
   ],
   "dependencies": [
